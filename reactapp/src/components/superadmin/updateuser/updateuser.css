@@ -1,0 +1,6 @@
+.disable{
+    background-color: #c3f4f2;
+}
+.disable:hover{
+    cursor: not-allowed;
+}

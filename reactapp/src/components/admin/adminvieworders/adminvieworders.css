@@ -1,0 +1,33 @@
+
+  .rowstyle{
+    font-size: 18px;
+    margin:auto;
+    padding:auto;
+  }
+  .table-container{
+    float: left;
+    margin-top: 3%;
+    margin-left: 4%;
+    width: 90%;
+    border-style: hidden;
+    box-shadow: 0px 0px 10px 1px #ACE5FF;
+}
+
+.table-head{
+    line-height: 30px;
+    background-color: #4D80E4;
+    color: white;
+}
+
+.table-body{
+    font-weight: 500;
+}
+
+tr{
+    line-height: 30px;
+    text-align: center;
+    border: 1px solid rgb(214, 214, 214);
+}
+
+  
+  
